@@ -12,4 +12,5 @@ Jetpack navigation component
 Glide  
 Retrofit  
 Livedata  
+View binding  
 Manual dependency injection 
